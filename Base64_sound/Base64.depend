@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1366055296 source:c:\erikprogram\base64\base64.cpp
+	"base64.h"
+	<iostream>
+
+1366055296 c:\erikprogram\base64\base64.h
+	<string>
+
+1366056317 source:c:\erikprogram\base64\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"base64.h"
+	"sound.h"
+
+1366056942 c:\erikprogram\base64\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1364838448 c:\erikprogram\base64\sound_list.h
+
+1366056942 source:c:\erikprogram\base64\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1366056942 source:c:\erikprogram\base64\base64 sound\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1366056942 c:\erikprogram\base64\base64 sound\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1364838448 c:\erikprogram\base64\base64 sound\sound_list.h
+
+1366055296 source:c:\erikprogram\base64\base64 sound\base64.cpp
+	"base64.h"
+	<iostream>
+
+1366055296 c:\erikprogram\base64\base64 sound\base64.h
+	<string>
+
