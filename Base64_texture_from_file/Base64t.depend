@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1366227973 source:c:\erikprogram\base64\base64 texture\main.cpp
+	<windows.h>
+	<SOIL/SOIL.h>
+	<gl/gl.h>
+

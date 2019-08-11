@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1366230103 source:c:\erikprogram\base64\base64 texture\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<SOIL/SOIL.h>
+	<gl/gl.h>
+	"base64.h"
+
+1366055296 source:c:\erikprogram\base64\base64 texture\base64.cpp
+	"base64.h"
+	<iostream>
+
+1366055296 c:\erikprogram\base64\base64 texture\base64.h
+	<string>
+

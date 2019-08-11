@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1366055296 source:c:\erikprogram\base64\bintobase64\base64.cpp
+	"base64.h"
+	<iostream>
+
+1366055296 c:\erikprogram\base64\bintobase64\base64.h
+	<string>
+
+1366313612 source:c:\erikprogram\base64\bintobase64\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	"base64.h"
+
